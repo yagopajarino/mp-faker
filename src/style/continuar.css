@@ -1,0 +1,12 @@
+.continuar {
+    padding: 1.75rem;
+    border-top: 1px solid #afafaf3a;
+}
+
+.continuar h1 {
+    color: #4cb0e6;
+    font-weight: 400;
+    font-size: 1.25rem;
+    width: 100%;
+    text-align: center;
+}

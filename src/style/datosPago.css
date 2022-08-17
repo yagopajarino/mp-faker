@@ -1,0 +1,22 @@
+.datosPago {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 2rem;
+}
+
+.datosPago h2 {
+    font-weight: 400;
+    font-size: 1.35rem;
+}
+
+.datosPago h3 {
+    font-weight: 300;
+    color: #9ca3af;
+    font-size: 1.05rem;
+}
+
+.datosPago svg {
+    border: 1px solid rgba(199, 199, 199, 0.611);
+    border-radius: 50%;
+}

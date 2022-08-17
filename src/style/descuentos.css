@@ -1,0 +1,75 @@
+.descuentos {
+    padding: 1rem 2rem;    
+}
+
+.descuentos h1 {
+    font-weight: 400;
+    padding: 1rem 0 2rem 0;
+    width: 100%;
+    text-align: center;
+}
+
+.descuentos .beneficios {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.descuentos .beneficios .wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2rem;
+    position: relative;
+    top: 0;
+}
+
+.beauty {
+    background-image: url("../images/beauty24.jpeg")
+}
+
+.axion {
+    background-image: url("../images/axion.jpeg")
+}
+
+.rex {
+    background-image: url("../images/rex.jpeg")
+}
+
+.descuentos .beneficios .img-wrapper {
+    background-position: center;
+    background-size: contain;
+    background-color: #cfcfcf42;
+    background-blend-mode: multiply;
+    border-radius: 50%;
+    height: 4.5rem;
+    width: 4.5rem;
+}
+
+.descuentos .beneficios img {
+    border-radius: 50%;
+}
+
+.descuentos .beneficios h2 {
+    padding-top: 0.75rem;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+.descuentos .beneficios h1 {
+    padding: 0;
+    line-height: 1.5rem;
+}
+
+.descuentos .button-descuentos {
+    padding: 0.7rem 0;
+    color: #4cb0e6;
+    width: 100%;
+    border: 1px solid #4cb0e6;
+    border-radius: 5px;
+}
+
+.descuentos .button-descuentos h1 {
+    padding: 0;
+    font-size: 1.25rem;
+}

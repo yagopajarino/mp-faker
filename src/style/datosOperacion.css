@@ -1,0 +1,27 @@
+.datosOperacion {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem 2rem;
+}
+
+.datosOperacion h2 {
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.datosOperacion h3 {
+    font-weight: 300;
+    color: #9ca3af;
+    font-size: .9rem;
+}
+
+.datosOperacion .qr-wrapper {
+    padding: 0.9rem;
+    border: 1px solid rgba(199, 199, 199, 0.611);
+    border-radius: 50%;
+}
+
+.datosOperacion svg {
+    display: block;
+}

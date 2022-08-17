@@ -1,0 +1,35 @@
+.dividirGastos {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem;
+    padding: 1rem 0.25rem 1rem 1rem;
+    border-radius: 10px;
+    box-shadow: 0px 7px 10px 2px #66666647;
+}
+
+.dividirGastos .wrapper {
+    display: flex;
+}
+
+.dividirGastos .wrapper .texto {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.dividirGastos .wrapper h1 {
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.45rem;
+}
+
+.dividirGastos .wrapper p {
+    padding-top: 1.5rem;
+    color: #4cb0e6;
+}
+
+.dividirGastos img {
+    width: 50%;
+}

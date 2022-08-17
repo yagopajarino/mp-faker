@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: proxima-nova;
+    width: 100%;
+}
+
+.App {
+    width: 100%;
+}
