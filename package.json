@@ -2,7 +2,7 @@
   "name": "mp_faker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yagopajarino.github.io/mp-faker/",
+  "homepage": "https://yagopajarino.github.io/mp-faker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
