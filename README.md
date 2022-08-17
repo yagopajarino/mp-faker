@@ -4,6 +4,11 @@ Emulador de pagos con QR de MercadoPago
 
 Aplicación disponible en https://yagopajarino.github.io/mp-faker
 
+| Original                                                                                        | Faked                                                                                              |   |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---|
+| ![imagen original](https://github.com/yagopajarino/mp-faker/blob/main/src/templates/screen.png) | ![imagen faked](https://github.com/yagopajarino/mp-faker/blob/main/src/templates/screen_faker.jpg) |   |
+|                                                                                                 |                                                                                                    |   |
+
 ## Motivación
 
 Vas a tu café favorito [este es el mío](https://www.instagram.com/cuervocafe/), disfrutas de un café y algo para comer, cuando vas a pagar ocurre algo así:
