@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mp-faker/static/css/main.ba92f7ec.css",
+    "main.js": "/mp-faker/static/js/main.fe060c0c.js",
+    "static/media/recorte.png": "/mp-faker/static/media/recorte.42b037b320c1e0e1b3eb.png",
+    "index.html": "/mp-faker/index.html",
+    "main.ba92f7ec.css.map": "/mp-faker/static/css/main.ba92f7ec.css.map",
+    "main.fe060c0c.js.map": "/mp-faker/static/js/main.fe060c0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba92f7ec.css",
+    "static/js/main.fe060c0c.js"
+  ]
+}
