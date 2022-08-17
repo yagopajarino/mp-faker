@@ -2,7 +2,7 @@
 
 Emulador de pagos con QR de MercadoPago
 
-Aplicación disponible en https://yagopajarino.github.io/mp-faker
+[Ir a la app](https://yagopajarino.github.io/mp-faker)
 
 | Original                                                                                        | Faked                                                                                              |   |
 |-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---|
