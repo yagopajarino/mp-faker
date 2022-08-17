@@ -2,8 +2,8 @@ export default function Tarjeta() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="56"
-      height="56"
+      width="48"
+      height="48"
       viewBox="0 0 176 176"
     >
       <g fill="none" fillRule="evenodd">

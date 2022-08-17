@@ -1,6 +1,6 @@
 export default function QR() {
   return (
-    <svg width="28" height="28" viewBox="0 0 24 24" fill="rgba(0, 0, 0, 0.9)">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="rgba(0, 0, 0, 0.9)">
       <path d="M4.5 6V4.5H6V6H4.5Z" fill="rgba(0, 0, 0, 0.9)"></path>
       <path
         fill-rule="evenodd"
