@@ -7,7 +7,7 @@ export default function App() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    navigate("/home");
+    navigate("/mp-faker/home");
   }, []);
 
   return <Outlet context={[monto, setMonto, local, setLocal]} />;

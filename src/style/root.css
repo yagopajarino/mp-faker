@@ -2,11 +2,21 @@
     margin: 0;
 }
 
+html {
+    font-size: 14px;
+}
+
 body {
     font-family: proxima-nova;
     width: 100%;
 }
 
 .App {
-    width: 100%;
+    width: 450px;
+}
+
+@media (max-width: 450px) {
+    .App {
+        width: 100%;
+    }
 }

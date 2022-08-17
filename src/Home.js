@@ -9,7 +9,7 @@ export default function Home() {
     const input_nombre = document.querySelector("#nombre");
     setMonto(input_monto.value);
     setLocal(input_nombre.value);
-    navigate("/post");
+    navigate("/mp-faker/post");
   };
 
   return (

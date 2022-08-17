@@ -4,7 +4,7 @@
 
 .descuentos h1 {
     font-weight: 400;
-    padding: 1rem 0 2rem 0;
+    padding: 0.15rem 0 2rem 0;
     width: 100%;
     text-align: center;
 }
@@ -42,8 +42,8 @@
     background-color: #cfcfcf42;
     background-blend-mode: multiply;
     border-radius: 50%;
-    height: 4.5rem;
-    width: 4.5rem;
+    height: 4rem;
+    width: 4rem;
 }
 
 .descuentos .beneficios img {
@@ -52,20 +52,21 @@
 
 .descuentos .beneficios h2 {
     padding-top: 0.75rem;
-    font-size: 1rem;
+    font-size: 0.85rem;
     font-weight: 100;
 }
 
 .descuentos .beneficios h1 {
     padding: 0;
     line-height: 1.5rem;
+    font-size: 1.4rem;
 }
 
 .descuentos .button-descuentos {
     padding: 0.7rem 0;
-    color: #4cb0e6;
+    color: #1c9ce1;
     width: 100%;
-    border: 1px solid #4cb0e6;
+    border: 1px solid #1c9ce1;
     border-radius: 5px;
 }
 

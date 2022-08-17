@@ -18,9 +18,9 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />}>
-          <Route path="/home" element={<Home />}></Route>
-          <Route path="/post" element={<Faker />}></Route>
+        <Route path="/mp-faker" element={<App />}>
+          <Route path="home" element={<Home />}></Route>
+          <Route path="post" element={<Faker />}></Route>
         </Route>
       </Routes>
     </BrowserRouter>
