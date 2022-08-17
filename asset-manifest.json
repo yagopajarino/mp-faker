@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mp-faker/static/css/main.ba92f7ec.css",
-    "main.js": "/mp-faker/static/js/main.f59ed365.js",
+    "main.js": "/mp-faker/static/js/main.2ce12bf3.js",
     "static/media/recorte.png": "/mp-faker/static/media/recorte.42b037b320c1e0e1b3eb.png",
     "index.html": "/mp-faker/index.html",
     "main.ba92f7ec.css.map": "/mp-faker/static/css/main.ba92f7ec.css.map",
-    "main.f59ed365.js.map": "/mp-faker/static/js/main.f59ed365.js.map"
+    "main.2ce12bf3.js.map": "/mp-faker/static/js/main.2ce12bf3.js.map"
   },
   "entrypoints": [
     "static/css/main.ba92f7ec.css",
-    "static/js/main.f59ed365.js"
+    "static/js/main.2ce12bf3.js"
   ]
 }
