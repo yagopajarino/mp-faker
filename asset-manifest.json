@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mp-faker/static/css/main.cab49767.css",
+    "main.css": "/mp-faker/static/css/main.5c9a5c96.css",
     "main.js": "/mp-faker/static/js/main.538694b5.js",
     "static/media/recorte.png": "/mp-faker/static/media/recorte.42b037b320c1e0e1b3eb.png",
     "index.html": "/mp-faker/index.html",
-    "main.cab49767.css.map": "/mp-faker/static/css/main.cab49767.css.map",
+    "main.5c9a5c96.css.map": "/mp-faker/static/css/main.5c9a5c96.css.map",
     "main.538694b5.js.map": "/mp-faker/static/js/main.538694b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cab49767.css",
+    "static/css/main.5c9a5c96.css",
     "static/js/main.538694b5.js"
   ]
 }
