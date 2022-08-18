@@ -1,7 +1,5 @@
 # MP Faker
 
-Emulador de pagos con QR de MercadoPago
-
 [Ir a la app](https://yagopajarino.github.io/mp-faker)
 
 | Original                                                                                        | Faked                                                                                              |   |
@@ -24,7 +22,7 @@ Sí, así, casi sin nigún control ni verificación del pago que hiciste.
 
 Pero, qué pasaría si, en lugar de escanear el QR, quien paga tuviera una aplicación que emule la interfaz de post-pago de Mercado Pago.
 
-Me propuse generarla para ver que tan complicado era también sirvió para practicar algunas skills de programación.
+Me propuse generarla para ver que tan complicado era también sirvió para practicar algunas skills webDev.
 
 ## Finalidad
 
