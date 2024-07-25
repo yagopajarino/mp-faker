@@ -9,7 +9,7 @@
 
 ## Motivación
 
-Vas a tu café favorito [este es el mío](https://www.instagram.com/cuervocafe/), disfrutas de un café y algo para comer, cuando vas a pagar ocurre algo así:
+Vas a tu café favorito ([este es el mío](https://www.instagram.com/cuervocafe/)), disfrutas de un café y algo para comer, cuando vas a pagar ocurre algo así:
 
 > \- Tenés Mercado Pago?\
 > \- Sí, ahora te lo traigo
@@ -28,6 +28,6 @@ Me propuse generarla para ver que tan complicado era también sirvió para pract
 
 El fin de este repositorio y la aplicación contenida en él es concientizar sobre los riesgos que se corren al cobrar con QR sin control post pago. Principalmente destinado a:
 
-**Personas encargadas de cobros en comercios** que puedan incluir rutinas y/o procedimientos para la verificación de pago con las herramientas disponibles de la plataforma.
+- **Personas encargadas de cobros en comercios** que puedan incluir rutinas y/o procedimientos para la verificación de pago con las herramientas disponibles de la plataforma.
 
-**Equipo de Mercado Pago** que pueda implementar un mecanismo para verificar la autenticidad de los pagos. Podría ser un QR en la interfaz de postpago que pueda ser escaneada por quien cobra para verificar la validez del mismo desde cualquier dispostivo, ahorrando el tener que ir la computadora en donde tienen el dashboard de cobros (o algo así).
+- **Equipo de Mercado Pago** que pueda implementar un mecanismo para verificar la autenticidad de los pagos. Podría ser un QR en la interfaz de postpago que pueda ser escaneada por quien cobra para verificar la validez del mismo desde cualquier dispostivo, ahorrando el tener que ir la computadora en donde tienen el dashboard de cobros (o algo así).
